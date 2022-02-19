@@ -1,3 +1,4 @@
+#NOTE: While running this file through cmd write python task.py --input_file_path="access_log.txt"
 import re
 from collections import defaultdict 
 import argparse
